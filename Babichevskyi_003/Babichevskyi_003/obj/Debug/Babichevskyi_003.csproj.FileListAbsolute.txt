@@ -1,0 +1,8 @@
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\bin\Debug\Babichevskyi_003.exe.config
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\bin\Debug\Babichevskyi_003.exe
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\bin\Debug\Babichevskyi_003.pdb
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\obj\Debug\Babichevskyi_003.csproj.AssemblyReference.cache
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\obj\Debug\Babichevskyi_003.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\obj\Debug\Babichevskyi_003.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\obj\Debug\Babichevskyi_003.exe
+C:\Users\Maxim\source\repos\Babichevskyi_003\Babichevskyi_003\obj\Debug\Babichevskyi_003.pdb
